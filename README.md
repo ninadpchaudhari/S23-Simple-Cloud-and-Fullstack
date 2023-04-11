@@ -8,6 +8,7 @@ Start with Cloud Computing
 * [Writeup](./JS_Basics.md)
 
 ## First Webpage 
+* [Basic HTML](Basic HTML.md)
 ## Poof! Make it pretty.
 * Bootstrap
 
